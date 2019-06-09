@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fb5395d8fd2df334c989cf0c1d3bd0e5
+timeCreated: 1482777489
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura No2 D Demi Bold
+  fontNames:
+  - Futura No2 D Demi Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
